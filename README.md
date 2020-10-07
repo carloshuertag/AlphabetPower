@@ -1,2 +1,2 @@
 # AlphabetPower
-Displays a given alphabet power to a given int k.
+Displays a given alphabet to the power of a given int k.
