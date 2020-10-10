@@ -24,7 +24,7 @@ void displayAlphabetPower(const char * alphabet, const char * prefix, int n, int
 }
 
 void alphabetPower(const char * alphabet, int k){
-    if(k > 20 || k < 0){
+    if(k > 10 || k < 0){
         printf("Invalid k entry");
         return;
     }
